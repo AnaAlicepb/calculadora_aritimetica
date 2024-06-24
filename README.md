@@ -8,13 +8,11 @@
     <meta name="author" content="Ana Alice Rodrigues">
 </head>
 <body>
-
 <header>
     <h1>Calculadora Aritmética em Vue.js</h1>
-    <img src="../calculadora_aritmetica/public/img/01.png" alt="Ícone de calculadora" width="300" height="auto">
-    <img src="../calculadora_aritmetica/public/img/02.png" alt="Ícone de calculadora" width="300" height="auto">
+    <img src="/public/img/01.png" alt="Ícone de calculadora" width="300" height="auto">
+    <img src="/public/img/02.png" alt="Ícone de calculadora" width="300" height="auto">
 </header>
-
 <details>
     <summary>Índice</summary>
     <ol>
@@ -26,7 +24,6 @@
         <li><a href="#contato">Contato</a></li>
     </ol>
 </details>
-
 <section id="sobre-o-projeto">
     <h2>Sobre o projeto</h2>
     <p>
@@ -36,7 +33,6 @@
         Proposta de Valor: Oferecer uma ferramenta de cálculo acessível e fácil de usar, promovendo a aprendizagem e a prática de conceitos matemáticos básicos de forma interativa.
     </p>
 </section>
-
 <section id="parte-tecnica">
     <h2>Parte Técnica</h2>
     <ul>
@@ -45,7 +41,6 @@
         <li>Banco de Dados: Não aplicável.</li>
     </ul>
 </section>
-
 <section id="estrutura-dos-arquivos">
     <h2>Estrutura dos Arquivos</h2>
     <ul>
@@ -55,7 +50,6 @@
         <li>src/App.vue - Componente principal que agrega todos os outros componentes.</li>
     </ul>
 </section>
-
 <section id="casos-de-uso">
     <h2>Casos de Uso</h2>
     <ul>
@@ -63,7 +57,6 @@
       <li>Profissionais usando a ferramenta para cálculos rápidos durante o trabalho.</li>
     </ul>
 </section>
-
 <section id="ferramentas">
     <h2>Ferramentas</h2>
     <ul>
@@ -74,14 +67,12 @@
         <li><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Badge Git"></li>
     </ul>
 </section>
-
 <section id="contato">
     <h2>Contato</h2>
     <ul>
         <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li>
     </ul>
 </section>
-
 </body>
 </html>
-# calculadora_aritimetica
+
